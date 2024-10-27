@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: G2TP
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Aleksandr
+    family-names: Gribkov
+    email: galeksan@jaguarlandrover.com
+    affiliation: JLR
+  - given-names: 'Bela '
+    family-names: Takarics
+    email: takarics@sztaki.hu
+    affiliation: MTA SZTAKI
+repository-code: >-
+  https://github.com/lon23222/Basis-Function-Generation-Artifacts.git
