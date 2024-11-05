@@ -7,7 +7,7 @@
 %
 % Budapest, 2024
 %
-% Note: Make sure you have the latest version of the G2TP function added
+% Note: Make sure you have the latest version of the G2TPTool added
 % to the path for automatic generation of basis functions
 % --------------------------------------------------------
 
