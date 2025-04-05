@@ -15,7 +15,7 @@ clc, clear
 
 %% I. Grid-Based, Rate-bounded Generalized Plant
 % Load State-Space Model
-load('miniMUTT_ss')
+load('mini_MUTT_ss')
 
 % Weights For the Generalized Plant
 
